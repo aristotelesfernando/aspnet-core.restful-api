@@ -28,4 +28,5 @@ $ dotnet add package MongoDB.Driver
 ## Executando imagem docker do mongoDB para usar na aplicação
 
 $ docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db mongo
+
 $ docker ps | Select-String -Pattern "mongo" (verificar container rodando no Windows)
