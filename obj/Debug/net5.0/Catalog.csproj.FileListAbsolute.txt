@@ -44,3 +44,14 @@ D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\runtimes\win\n
 D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

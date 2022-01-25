@@ -1,11 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "Hk2+NNBW02NVq1OObJakmTv/m1YxrV/QC7d4GoxTwPhjVcJGXh6b81pI+jo63Xf0MELeXLc4qHG6TnOppuGmog==",
+  "dgSpecHash": "WLo5AGRo9WqR+r5ujsmryWt9hkpfoRbRKHWwbY7V5PyT7iV3qNycwLq8ITM2/1tyOe+cloNA/irN7V1xkDHqVA==",
   "success": true,
-  "projectFilePath": "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj",
+  "projectFilePath": "d:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arist\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\6.0.1\\aspnetcore.healthchecks.mongodb.6.0.1.nupkg.sha512",
     "C:\\Users\\arist\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\6.0.0\\microsoft.extensions.diagnostics.healthchecks.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\6.0.0\\microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\arist\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\arist\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
     "C:\\Users\\arist\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
@@ -17,7 +27,8 @@
     "C:\\Users\\arist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "C:\\Users\\arist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "C:\\Users\\arist\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\arist\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\arist\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj": {}
+    "d:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj": {
+    "d:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "d:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj",
+        "projectPath": "d:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\arist\\.nuget\\packages\\",
-        "outputPath": "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\obj\\",
+        "outputPath": "d:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.14.1, )"

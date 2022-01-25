@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Catalog
-build_property.ProjectDir = D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\
+build_property.ProjectDir = d:\src\Samples\freecodeCamp\net5-restAPI\Catalog\
