@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\build.proj": {}
+  },
+  "projects": {
+    "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\build.proj",
+        "projectName": "build",
+        "projectPath": "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\build.proj",
+        "packagesPath": "C:\\Users\\arist\\.nuget\\packages\\",
+        "outputPath": "D:\\src\\Samples\\freecodeCamp\\net5-restAPI\\Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
