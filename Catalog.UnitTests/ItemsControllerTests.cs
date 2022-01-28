@@ -61,41 +61,29 @@ namespace Catalog.UnitTests
 
         }
 
-        // [Fact]
-        // public async Task GetItemByNameAsync_WithExistingItem_ReturnsExpectedItem()
-        // {
-        //     // Arrange
-        //     var expectedItem = CreateRandomItem();
+        [Fact]
+        public async Task GetItemByNameAsync_WithExistingItem_ReturnsExpectedItem()
+        {
+            // Arrange
+            var expectedItem = CreateRandomItem();
 
-        //     var _expectedItem = new ItemDto()
-        //     {
-        //         Id = Guid.NewGuid(),
-        //         Name = Guid.NewGuid().ToString(),
-        //         Price = rand.Next(1000),
-        //         CreatedDate = DateTimeOffset.UtcNow
-        //     };
+            var name = expectedItem.Name;
 
-        //     //repositoryStub.Setup(repo => repo.GetItemByNameAsync(It.IsAny<Guid>().ToString())).ReturnsAsync(expectedItem);
-        //     repositoryStub.Setup(r => r.GetItemByNameAsync(It.IsValueType<string>())).ReturnsAsync(_expectedItem);
+            repositoryStub.Setup(repo => repo.GetItemByNameAsync(It.IsAny<string>())).ReturnsAsync(expectedItem);
 
-        //     var controller = new ItemsController(repositoryStub.Object, loggerStub.Object);
+            var controller = new ItemsController(repositoryStub.Object, loggerStub.Object);
 
-        //     // Act
-        //     var result = await controller.GetItemByName(Guid.NewGuid().ToString());
+            // Act
+            var result = await controller.GetItemByName(name.ToString());
 
-        //     // Assert
-        //     result.Value.Should().BeEquivalentTo(
-        //         expectedItem,
-        //         options => options.ComparingByMembers<Item>()
-        //     );
+            // Assert
+            result.Value.Should().BeEquivalentTo(
+                expectedItem,
+                options => options.ComparingByMembers<Item>()
+            );
 
-        //     // Substitui estas linhas por apenas a linha acima
-        //     // Assert.IsType<ItemDto>(result.Value);
-        //     // var dto = (result as ActionResult<ItemDto>).Value;
-        //     // Assert.Equal(expectedItem.Id, dto.Id);
-        //     // Assert.Equal(expectedItem.Name, dto.Name);
 
-        // }
+        }
 
         [Fact]
         public async Task GetItemsAsync_WithExistingItems_ReturnsAllItems()
