@@ -30,22 +30,22 @@
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
-        },
-        {
-            "name": ".NET Core Docker Attach",
-            "type": "coreclr",
-            "request": "attach",
-            "processId": "${command:pickRemoteProcess}",
-            "pipeTransport": {
-                "pipeProgram": "docker",
-                "pipeArgs": ["exec", "-i", "adoring_burnell"],
-                "debuggerPath": "/vsdbg/vsdbg",
-                "pipeCwd": "${workspaceRoot}",
-                "quoteArgs": false
-            },
-            "sourceFileMap": {
-                "/src": "${workspaceRoot}"
-            }
         }
+        // {
+        //     "name": ".NET Core Docker Attach",
+        //     "type": "coreclr",
+        //     "request": "attach",
+        //     "processId": "${command:pickRemoteProcess}",
+        //     "pipeTransport": {
+        //         "pipeProgram": "docker",
+        //         "pipeArgs": ["exec", "-i", "adoring_burnell"],
+        //         "debuggerPath": "/vsdbg/vsdbg",
+        //         "pipeCwd": "${workspaceRoot}",
+        //         "quoteArgs": false
+        //     },
+        //     "sourceFileMap": {
+        //         "/src": "${workspaceRoot}"
+        //     }
+        // }
     ]
 }

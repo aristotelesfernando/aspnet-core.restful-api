@@ -54,4 +54,3 @@ D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\Catalog.Api\obj\Debug\net5.0\Ca
 D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\Catalog.Api\obj\Debug\net5.0\ref\Catalog.Api.dll
 D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.pdb
 D:\src\Samples\freecodeCamp\net5-restAPI\Catalog\Catalog.Api\obj\Debug\net5.0\Catalog.Api.genruntimeconfig.cache
-d:\src\Samples\freecodeCamp\net5-restAPI\Catalog\Catalog.Api\obj\Debug\net5.0\staticwebassets\Catalog.Api.StaticWebAssets.xml
